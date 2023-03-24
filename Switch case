@@ -7,7 +7,7 @@ int main() {
     
     printf("\nintroduce la opción deseada: ");
     scanf("%d", &OP);
-    printf("\nintroduce la variable a operar: ");   // Write C code here
+    printf("\nintroduce la variable a operar: ");  
     scanf("%d", &T);
         
     switch(OP){
