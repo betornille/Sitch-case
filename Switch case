@@ -24,6 +24,6 @@ int main() {
         default:
             break;
     }
-    printf("El resultado es: %f", RES);
+    printf("El resultado es: %.1f", RES);
     return 0;
 }
